@@ -1,0 +1,25 @@
+{
+  "name": "webpack-simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dream-wu/webpack-simple.git"
+  },
+  "author": "wumj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dream-wu/webpack-simple/issues"
+  },
+  "homepage": "https://github.com/Dream-wu/webpack-simple#readme",
+  "devDependencies": {
+    "ejs": "^2.6.1",
+    "webpack": "^4.24.0",
+    "webpack-cli": "^3.1.2"
+  }
+}
